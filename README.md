@@ -1,2 +1,2 @@
 # Generate_all_paths
-Find all paths of a program, both simple and cyclic.
+Generate all paths of a program, both simple and cyclic paths. Input is taken from MySQL Database and the output is printed on a different table on the Database. We have used the networkx module here.
